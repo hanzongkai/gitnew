@@ -1,7 +1,7 @@
 
 this is a git test
 
-
+test dec learngit
 
 this is a new branch
 
@@ -10,5 +10,6 @@ this is a bug version
 
 fix the bug
 
+test dec learngit
 
 
