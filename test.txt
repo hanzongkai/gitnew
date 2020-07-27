@@ -3,8 +3,13 @@ this is a git test
 
 Creating a new branch is quick AND simple.
 
-
-
 this is a stash test
+
+this is a new branch
+
+this is a bug version
+
+fix the bug
+
 
 
